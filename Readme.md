@@ -61,6 +61,4 @@ npm run build: Builds the frontend for production.
 
 
 
-
-
 Make sure to save this content as `README.md` in your project folder. This Markdown format will display properly on GitHub and other platforms that support Markdown rendering, showing headlines, code blocks, and links correctly.
