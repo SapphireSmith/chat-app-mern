@@ -24,8 +24,9 @@ To clone the repository, open your terminal and run the following command:
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 ```
-
-cd repo-name
+```bash
+cd chat app
+```
 
 cd server
 npm install
