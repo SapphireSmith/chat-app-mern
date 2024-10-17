@@ -27,8 +27,10 @@ git clone https://github.com/yourusername/your-repo-name.git
 ```bash
 cd chat app
 ```
-
+```bash
 cd server
+```
+
 npm install
 
 cd ../client
